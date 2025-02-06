@@ -1,0 +1,23 @@
+{
+    "portfolio": "Welcome to my website!",
+    "skills": "Skills",
+    "projects": "Projects",
+    "hireMe": "Hire Me",
+    "creative": "Creative thinker Minimalism lover",
+    "emre": "Hi, I’m Emre. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
+    "react":"React is a JavaScript library used for building user interfaces. Its component-based architecture makes it easier to maintain and scale applications.",
+    "redux":"Redux is a library for managing the state of JavaScript applications. It allows the application state to be handled through a central store, making the app more predictable.",
+    "axios":"Redux is a library for managing the state of JavaScript applications. It allows the application state to be handled through a central store, making the app more predictable.",
+    "birthDate":"Birth Date",
+    "CityofResidence":"City of Residence",
+    "educationalStatus":"Educational Status",
+    "preferredRole":"Preferred Role",
+    "hobbies":"Hobbies",
+    "aboutMe":"About Me",
+    "aboutMeTitle":"I aimed to combine the technical knowledge and skills I gained during my education with the practices in my professional work life to achieve the expected commercial return. I have a great interest in projects that require conceptual and analytical thinking. I believe that success lies within a stable, research-oriented corporate structure. This belief and expectation should be the key to success.",
+    "aboutMeTitlei":"In individual and team work, I have a patient, goal-focused analytical mindset. This structure I possess rewards me with the satisfaction I experience when I exceed the expected success.",
+    "projectsViewLink":"View Site",
+    "fotterTitle":"Let’s work together on your next product.",
+    "darkMode":"DARK MODE"
+  }
+  
