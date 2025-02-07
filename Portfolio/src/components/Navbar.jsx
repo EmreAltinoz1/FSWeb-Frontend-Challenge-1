@@ -63,7 +63,7 @@ const Header = () => {
     <header className={`p-4 ${theme === 'dark' ? 'bg-gray-800 text-white' : 'bg-white'}`}>
       <div className="container mx-auto flex justify-end items-center">
         <ThemeToggle />
-        <span className={`${theme === 'dark' ? 'text-gray-400' : 'text-gray-500'} mx-4`}>|</span>
+        <span className={`${theme === 'dark' ? 'text-orange-400' : 'text-gray-500'} mx-4`}>|</span>
         <LanguageToggle />
       </div>
     </header>

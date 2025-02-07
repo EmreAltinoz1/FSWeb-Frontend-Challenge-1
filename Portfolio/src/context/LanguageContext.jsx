@@ -1,4 +1,4 @@
-import { createContext,useState,useEffect } from 'react';
+import React, { createContext, useState, useEffect } from 'react';
 
 export const LanguageContext = createContext();
 
@@ -18,4 +18,9 @@ export const LanguageProvider = ({ children }) => {
       {children}
     </LanguageContext.Provider>
   );
-}
+};
+
+/*
+useContext(ThemeContext) ifadesi, Context Provider içinde tanımlanan değerleri kullanmamızı sağlar.
+
+*/

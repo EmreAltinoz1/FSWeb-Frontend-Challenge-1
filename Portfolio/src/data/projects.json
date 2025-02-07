@@ -1,0 +1,72 @@
+[
+    {
+      "title": "Workintech",
+      "description": {
+        "en": "This project is an e-commerce platform where users can browse products, add them to their cart, and proceed with checkout. Developed with React and Redux, it contains a series of components to manage user interactions. The application allows users to view their previous purchases, save favorite items, and complete their shopping process with ease. Payment integration and user login processes are also included in the project.",
+        "tr": "Bu proje, kullanıcıların ürünleri görüntülemesini, sepete eklemesini ve ödeme işlemi yapmasını sağlayan bir e-ticaret platformu olarak tasarlanmıştır. React ve Redux kullanılarak geliştirilmiştir ve kullanıcı etkileşimlerini yönetmek için bir dizi bileşen içerir. Uygulama, kullanıcıların önceki alışverişlerini görüntülemelerine, favori ürünlerini kaydetmelerine ve alışverişlerini kolayca tamamlamalarına olanak tanır."
+      },
+      "image": "/hero-img/Witflix-sup.PNG",
+      "technologies": ["React", "Css", "Axios"],
+      "githubLink": "https://github.com/EmreAltinoz1/Withflix",
+      "viewLink": ""
+    },
+    {
+      "title": "Portfolio",
+      "description": {
+        "en": "A blog application developed with React, allowing users to create, edit, and share content. The app includes a user login and registration system, where users can track their posts. The admin panel allows for deleting, editing, or approving blog posts. Blog articles and comments are stored in a database and are dynamically rendered using React components.",
+        "tr": "React ile geliştirilmiş bir blog uygulaması, kullanıcıların içerik oluşturmasına, düzenlemesine ve başkalarıyla paylaşmasına olanak tanır. Uygulama, bir kullanıcı girişi ve kayıt sistemiyle, kullanıcının yazılarını takip etmesine imkan tanır. Yönetici paneli, blog yazılarını silme, düzenleme veya onaylama işlemlerine olanak tanır. Blog yazıları ve yorumlar bir veritabanına kaydedilir ve tüm içerik, React bileşenleri kullanılarak dinamik bir şekilde render edilir."
+      },
+      "image": "/hero-img/Portfolio-1.PNG",
+      "technologies": ["React", "TailWind", "JavaScript", "Axios"],
+      "githubLink": "https://github.com/EmreAltinoz1/FSWeb-Frontend-Challenge-1",
+      "viewLink": "https://fs-web-portfolio-challenge.vercel.app/"
+    },
+    {
+      "title": "Pizza",
+      "description": {
+        "en": "This React application allows users to manage individual or team-based tasks. Users can create new tasks, change their completion status, and assign deadlines. The app uses Redux for global state management, allowing users to organize all their tasks. Tasks can be filtered by category and priority, and users can add comments to tasks as well.",
+        "tr": "React kullanılarak geliştirilen bu uygulama, bireysel veya takım bazlı görevlerin yönetilmesini sağlar. Kullanıcılar yeni görevler oluşturabilir, görevlerin tamamlanma durumlarını değiştirebilir ve görevlerine bir son tarih atayabilir. Uygulama, Redux ile global durum yönetimi yaparak, kullanıcıların tüm görevlerini düzenlemelerine olanak tanır. Görevler, kategoriler ve öncelik seviyelerine göre filtrelenebilir ve kullanıcılar görevlerine ek açıklamalar da yapabilir."
+      },
+      "image": "/hero-img/Teknoljik-yemekler-pizza.PNG",
+      "technologies": ["Html", "Css", "JavaScript"],
+      "githubLink": "https://github.com/EmreAltinoz1/fsweb-s8-challenge-pizza-emre-1",
+      "viewLink": ""
+    },
+    {
+      "title": "Wikipedia",
+      "description": {
+        "en": "Wikipedia, prepared collaboratively by its users in many languages; is a free, independent, free, ad-free and non-profit internet encyclopedia.",
+        "tr": "Vikipedi,kullanıcıları tarafından ortaklaşa olarak birçok dilde hazırlanan; özgür, bağımsız, ücretsiz, reklamsız ve kâr amacı gütmeyen bir internet ansiklopedisidir."
+      },
+      "image": "/hero-img/wikipedia.PNG",
+      "technologies": ["React", "Redux", "Node.js", "MongoDB", "Stripe"],
+      "githubLink": "#",
+      "viewLink": "#"
+    },
+    {
+      "title": "Prime-Video",
+      "description": {
+        "en": "Amazon Prime Video, or Prime Video for short, is an on-demand American subscription video streaming and rental service from Amazon.com Inc., available as a standalone service or as part of Amazon's Prime subscription.",
+        "tr": "Amazon Prime Video veya kısaca Prime Video, bağımsız bir hizmet olarak veya Amazon'un Prime aboneliğinin bir parçası olarak sunulan, Amazon.com Inc.'in isteğe bağlı bir Amerikan aboneliğine sahip video akışı ve kiralama hizmetidir."
+      },
+      "image": "/hero-img/prime-video.PNG",
+      "technologies": ["React", "API Integration", "CSS"],
+      "githubLink": "#",
+      "viewLink": "#"
+    },
+    {
+      "title": "Nasa",
+      "description": {
+        "en": "The National Aeronautics and Space Administration is an independent agency of the US federal government responsible for the United States' civil space program, aeronautics research and space research.",
+        "tr": "Ulusal Havacılık ve Uzay İdaresi, ABD federal hükümetine bağlı, ABD'nin sivil uzay programı, havacılık araştırmaları ve uzay araştırmalarından sorumlu bağımsız bir kurumudur."
+      },
+      "image": "/hero-img/Nasa.PNG",
+      "technologies": ["React", "Context API", "Node.js", "Express"],
+      "githubLink": "#",
+      "viewLink": "#"
+    }
+    
+    
+    
+  ]
+  

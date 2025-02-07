@@ -1,13 +1,15 @@
 import { useState } from 'react';
 import { ThemeContext } from './context/ThemeContext';
 import { LanguageContext } from './context/LanguageContext';
-import Header from './components/Header';
 import Footer from './components/footer';
 import HeroSection from './components/HeroSection';
 import Projects from './components/Projects';
-import AboutMe from './components/AboutMe';
 import Contact from './components/Contact';
-
+import Navbar from './components/Navbar'
+import { ThemeProvider } from "./context/ThemeContext";
+import Skills from './components/Skills';
+import Profile from './components/Profile';
+import './index.css';
 function App() {
   const [theme, setTheme] = useState('light'); // Tema ayarı
   const [language, setLanguage] = useState('en'); // Dil ayarı
@@ -17,18 +19,16 @@ function App() {
       <LanguageContext.Provider value={{ language, setLanguage }}>
         <div className={`app ${theme}`}>
           {/* Ortak bileşenler */}
-          <Header />
-          
-          {/* İçerik */}
-          <main>
+          <ThemeProvider>
+            <Navbar />
             <HeroSection />
-            <Projects />
-            <AboutMe />
+            <Skills />
             <Contact />
-          </main>
-          
-          {/* Footer */}
+            <Profile />
+            <Projects />
           <Footer />
+          </ThemeProvider>
+
         </div>
       </LanguageContext.Provider>
     </ThemeContext.Provider>
