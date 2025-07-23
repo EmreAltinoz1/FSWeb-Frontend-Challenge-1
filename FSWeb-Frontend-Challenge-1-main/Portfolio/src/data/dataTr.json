@@ -1,0 +1,22 @@
+{
+    "portfolio": "Web sitemize hoş geldiniz!",
+    "skills": "Yetenekler",
+    "projects": "Projeler",
+    "hireMe": "Beni İşe Al!",
+    "creative": "Yaratıcı düşünür Minimalizm aşığı",
+    "emre": "Merhaba ben Emre. Ben tam kapsamlı bir geliştiriciyim. Mükemmel kullanıcı deneyimleriyle sağlam ve ölçeklenebilir ön uç ürünleri üretecek bir Geliştirici arıyorsanız. Benimle el sıkışalım.",
+    "react":"React, kullanıcı arayüzleri oluşturmak için kullanılan bir JavaScript kütüphanesidir. Bileşen bazlı mimarisi sayesinde uygulamaların bakımını ve genişletilmesini kolaylaştırır.",
+    "redux":"Redux, JavaScript uygulamalarında durum yönetimini sağlayan bir kütüphanedir. Uygulama durumu, merkezi bir mağaza üzerinden yönetilerek uygulamanın daha predictible (öngörülebilir) hale gelmesini sağlar.",
+    "axios":"Axios, HTTP istekleri yapmak için kullanılan bir JavaScript kütüphanesidir. Hem tarayıcıda hem de Node.js ortamında çalışabilir, API'lerle veri alışverişi yapmayı kolaylaştırır.",
+    "birthDate":"Doğum Tarihi",
+    "CityofResidence":"Yaşadığı Şehir",
+    "educationalStatus":"Eğitim Durumu",
+    "preferredRole":"Tercih Edilen Rol",
+    "hobbies":"Hobiler",
+    "aboutMe":"Hakkımda",
+    "aboutMeTitle":"Eğitim yıllarında sahip olduğum teknik bilgi ve becerilerimi profesyonel iş hayatımda ki pratikler ile harmanlayıp beklenen ticari getiriye ulaşmayı hedefledim. Kavramsal ve analitik düşünme gerektiren projelere büyük ilgi duyarım. Başarının, istikrarlı ve araştırmayı seven kurumsal bir yapı dahilinde geleceğine inanırım. Bu inanç ve beklenti başarının anahtarı olmalı.",
+    "aboutMeTitlev":"Bireysel ve takım çalışmalarında sabırlı, hedefe odaklı bir analitik düşünce yapısına sahibim. Sahip olduğum bu yapı, benden beklenen başarının üzerine çıktığım takdirde yaşayacağım haz ile ödüllendiriliyor.",
+    "projectsViewLink":"Siteyi Görüntüle",
+    "fotterTitle":"Bir sonraki ürününüz üzerinde birlikte çalışalım."
+    
+  }
